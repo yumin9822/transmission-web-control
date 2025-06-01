@@ -1,3 +1,13 @@
+## 注意：项目不再维护
+> 因项目时间久远，所涉及的技术已过于陈旧，加上本人已没有精力在本项目上进行更新，现决定归档本项目，大家可以使用其他替代项目。
+>
+> 如您还需要继续使用本项目，目前最好的方式是在 Docker 里使用 2.94 版本，然后设定环境变量指定WebUI，具体可参考（https://www.cnblogs.com/ronggang/p/18788723 ）；或者使用其他已集成的项目。
+>
+> 感谢大家长期以来的支持。
+> 
+> 2025.06.01 栽培者 
+
+----
 
 <p align="center">
 <img src="https://github.com/ronggang/transmission-web-control/raw/master/src/tr-web-control/logo.png"><br/>
